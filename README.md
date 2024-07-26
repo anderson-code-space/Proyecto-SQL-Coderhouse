@@ -318,3 +318,7 @@ Se elaboraron 2 funciones para la base de datos Wifly que retornan información 
 ## Eventos y Procedimientos
 
 
+## COMO CORRER MI CODIGO
+ ```bash
+    make
+ ```
